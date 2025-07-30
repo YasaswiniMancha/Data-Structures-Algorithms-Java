@@ -7,6 +7,7 @@ public class ArrayMain {
 
 	public static void main(String args[]) {
 
+		
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter array lenth n: ");
 		int n = sc.nextInt();
